@@ -11,12 +11,6 @@
       "PosY": 7
     },
     {
-      "Type": 0,
-      "Color": 5,
-      "PosX": 2,
-      "PosY": 1
-    },
-    {
       "Type": 2,
       "Color": 6,
       "PosX": 2,
@@ -219,6 +213,12 @@
       "Color": 3,
       "PosX": 0,
       "PosY": 0
+    },
+    {
+      "Type": 0,
+      "Color": 5,
+      "PosX": 2,
+      "PosY": 1
     }
   ]
 }
